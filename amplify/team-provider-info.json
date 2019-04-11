@@ -15,5 +15,22 @@
                 "cognitof3a1bd96": {}
             }
         }
+    },
+    "devtest": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-admin-20190410132447-authRole",
+            "UnauthRoleArn": "arn:aws:iam::698314548707:role/amplify-admin-20190410132447-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::698314548707:role/amplify-admin-20190410132447-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-admin-20190410132447-deployment",
+            "UnauthRoleName": "amplify-admin-20190410132447-unauthRole",
+            "StackName": "amplify-admin-20190410132447",
+            "StackId": "arn:aws:cloudformation:us-east-1:698314548707:stack/amplify-admin-20190410132447/1156d3b0-5bd7-11e9-b747-0e89924d3e24"
+        },
+        "categories": {
+            "auth": {
+                "cognitoaaf413ce": {}
+            }
+        }
     }
 }
